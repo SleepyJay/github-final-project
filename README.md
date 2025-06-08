@@ -9,6 +9,3 @@ Input:
 Output
    simple interest = p*t*r
 
-
-
-Note: I'm doing this Coursera Project for Completist Sake. 
